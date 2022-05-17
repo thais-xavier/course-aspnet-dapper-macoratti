@@ -1,2 +1,1 @@
-# course-aspnet-dapper-macoratti
-Aspnet Core project with Dapper
+# Aspnet Core project with Dapper
